@@ -12,11 +12,11 @@ from deepseismic import imaging
 ```bash
 pip install deepseismic[interpretation]
 ```
-Installs only common requirements and requirements for hades
+Installs only common requirements and requirements for interpretation
 ```python
 from deepseismic import interpretation
 ```
-So thje above should work fine but
+So the above should work fine but
 ```python
 from deepseismic import imaging
 ```
